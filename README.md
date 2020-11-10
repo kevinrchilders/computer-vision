@@ -1,3 +1,1 @@
 # Computer Vision
-
-Coming soon.
